@@ -1,13 +1,14 @@
 ---
 layout: default
 ---
-![](/assets/wikipedian_protester.png)
+<center>![](/assets/wikipedian_protester.png)
+Wikipedian protester [Source : xkcd.com](http://xkcd.com/285)</center>
 
 # [](#header-1)Instructors
 
-*   Pierre-Louis Rolle - pierre-louis.rolle@finances.gouv.fr - [Linkedin](https://www.linkedin.com/in/pierre-louis-rolle-6a23104b/) - [Twitter](https://www.twitter.com/pierrelouisr)
-*   Alexandre Bigot-Verdier - alexandre.bigot-verdier@finances.gouv.fr - Linkedin - Twitter
-*   Frédéric Bardolle - frederic.bardolle@finances.gouv.fr - Linkedin - Twitter
+*   **Pierre-Louis Rolle** - pierre-louis.rolle@finances.gouv.fr - [Linkedin](https://www.linkedin.com/in/pierre-louis-rolle-6a23104b/) - [Twitter](https://www.twitter.com/pierrelouisr)
+*   **Alexandre Bigot-Verdier** - alexandre.bigot-verdier@finances.gouv.fr - Linkedin - Twitter
+*   **Frédéric Bardolle** - frederic.bardolle@finances.gouv.fr - Linkedin - Twitter
 
 > This is a blockquote following a header.
 >
