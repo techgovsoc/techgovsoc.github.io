@@ -2,6 +2,7 @@
 layout: default
 ---
 ![](/assets/wikipedian_protester.png)
+
 Wikipedian protester [Source : xkcd.com](http://xkcd.com/285)
 
 # [](#header-1)Instructors
