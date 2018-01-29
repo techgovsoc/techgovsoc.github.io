@@ -3,9 +3,9 @@ layout: default
 ---
 ![](/assets/wikipedian_protester.png)
 
-Wikipedian protester [Source : xkcd.com](http://xkcd.com/285)
+Wikipedian protester [source : xkcd.com](http://xkcd.com/285)
 
-# [](#header-1)Instructors
+# [](#header-2)Instructors
 
 *   **Pierre-Louis Rolle** - pierre-louis.rolle@finances.gouv.fr - [Linkedin](https://www.linkedin.com/in/pierre-louis-rolle-6a23104b/) - [Twitter](https://www.twitter.com/pierrelouisr)
 *   **Alexandre Bigot-Verdier** - alexandre.bigot-verdier@finances.gouv.fr - Linkedin - Twitter
