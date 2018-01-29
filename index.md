@@ -58,13 +58,13 @@ Two teams will have to challenge the following statement : _Are civic technologi
 
 #### [](#header-7)Mandatory readings
 
-*  John Dewey, 1939, [Creative Democracy : the Task before us](http://pages.uoregon.edu/koopman/courses_readings/dewey/dewey_creative_democracy.pdf) in _John Dewey and the Promise of America, Progressive Education Booklet No. 14._, American Education Press_
+*  John Dewey, 1939, [Creative Democracy : the Task before us](http://pages.uoregon.edu/koopman/courses_readings/dewey/dewey_creative_democracy.pdf) in _John Dewey and the Promise of America, Progressive Education Booklet No. 14._, American Education Press
 *   Emily Shaw, 2016, [How the Department of Justice used data to hold Baltimore police accountable](https://sunlightfoundation.com/2016/08/17/how-the-doj-used-data-to-hold-baltimore-police-accountable/), _Sunlight Foundation_ 
 *  Valentin Chaput, 2016, [French civic-tech is turning away from the digital commons creation dynamic we need to transform our democracy](https://medium.com/open-source-politics/french-civic-tech-is-turning-away-from-the-digital-commons-creation-dynamic-we-need-to-transform-efd7867c3eb2), _Open Source Politics (Medium)_
 
 #### [](#header-7)Recommended readings
-*   Aaron Wytze, 2017 [Taiwanese Civic Tech is not Re-inventing Democracy… Yet.](https://g0v.news/taiwanese-civic-tech-is-not-re-inventing-democracy-yet-ae72c1219531), _g0v News_ 
-*   Wei-chia Hu, 2017 [How Can Civic Tech Make Government More “Open” and “Participatory”?](https://g0v.news/how-can-civic-tech-make-government-more-open-and-participatory-b67c2a4fa868), _g0v News_ 
+*   Aaron Wytze, 2017, [Taiwanese Civic Tech is not Re-inventing Democracy… Yet.](https://g0v.news/taiwanese-civic-tech-is-not-re-inventing-democracy-yet-ae72c1219531), _g0v News_ 
+*   Wei-chia Hu, 2017, [How Can Civic Tech Make Government More “Open” and “Participatory”?](https://g0v.news/how-can-civic-tech-make-government-more-open-and-participatory-b67c2a4fa868), _g0v News_ 
 
 ## [](#header-6)Session 3 : field trip to Station F (PLR)
 
