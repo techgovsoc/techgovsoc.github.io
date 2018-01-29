@@ -10,8 +10,10 @@ Wikipedian protester [source : xkcd.com](http://xkcd.com/285)
 ### [](#header-2)Instructors
 
 *   **Pierre-Louis Rolle** - pierre-louis.rolle@finances.gouv.fr - [Linkedin](https://www.linkedin.com/in/pierre-louis-rolle-6a23104b/) - [Twitter](https://www.twitter.com/pierrelouisr)
-*   **Alexandre Bigot-Verdier** - alexandre.bigot-verdier@finances.gouv.fr - Linkedin - Twitter
-*   **Frédéric Bardolle** - frederic.bardolle@finances.gouv.fr - Linkedin - Twitter
+*   **Alexandre Bigot-Verdier** - alexandre.bigot-verdier@finances.gouv.fr - [Linkedin](https://www.linkedin.com/in/alexandre-bigot-verdier-27348920/) - [Twitter](https://www.twitter.com/AlexBigVer)
+*   **Frédéric Bardolle** - frederic.bardolle@finances.gouv.fr - [Linkedin](https://www.linkedin.com/in/fbardolle/) - [Twitter](https://www.twitter.com/seiteta)
+
+Senior Policy Team, Digital Society Task Force : [www.societenumerique.gouv.fr](https://www.societenumerique.gouv.fr)
 
 ### [](#header-3)Evaluation
 
@@ -21,100 +23,77 @@ Participation is **mandatory** ; you have to register [following this link](http
 
 
 ### [](#header-4)Optional readings : keep you updated on the topics at hand
-*   The GovLab Blog : http://thegovlab.org/blog/
-*   g0v News English : https://g0v.news/tagged/en
-*   Alexander von Humboldt Institute for Internet and Society : https://www.hiig.de/en/blog/ 
-*   The Stanford Social Innovation Review : https://ssir.org/
-*   The Good Things Foundation Blog : https://www.goodthingsfoundation.org/news-and-blogs
+*   [The GovLab Blog](http://thegovlab.org/blog/)
+*   [g0v News English](https://g0v.news/tagged/en)
+*   [Alexander von Humboldt Institute for Internet and Society](https://www.hiig.de/en/blog/) 
+*   [The Stanford Social Innovation Review](https://ssir.org/)
+*   [The Good Things Foundation Blog](https://www.goodthingsfoundation.org/news-and-blogs)
 
 
 # [](#header-1)Program
 
-### [](#header-6)Session : introduction (PLR)
+### [](#header-6)Session 1 : introduction (PLR)
 
-#### [](#header-7)Mandatory readings
-
-*   Tarleton Gillespie, 2017, [The platform metaphor, revisited ](https://www.hiig.de/en/blog/the-platform-metaphor-revisited/) 
-*  John Butin, 2016, [25 Years Later, What Happened to 'Reinventing Government'?](http://www.governing.com/topics/mgmt/gov-reinventing-government-book.html), _Governing the States and Localities_
-*   Yiren Lu, [Why is it so hard to make a website for the Government ?](https://www.nytimes.com/interactive/2016/11/13/magazine/design-issue-code-for-america.html), _The New York Times_ 
 
 **[Download the slides](/assets/session1.pdf)**
 
-##### [](#header-5)Header 5
+#### [](#header-7)Mandatory readings
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
+*   Tarleton Gillespie, 2017, [The platform metaphor, revisited ](https://www.hiig.de/en/blog/the-platform-metaphor-revisited/), _Alexander von Humboldt Institute for Internet and Society_ 
+*  John Butin, 2016, [25 Years Later, What Happened to 'Reinventing Government' ?](http://www.governing.com/topics/mgmt/gov-reinventing-government-book.html), _Governing the States and Localities_
+*   Yiren Lu, [Why is it so hard to make a website for the Government ?](https://www.nytimes.com/interactive/2016/11/13/magazine/design-issue-code-for-america.html), _The New York Times_ 
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+### [](#header-6)Session 2 : Opening governments : public participation and transparency (PLR)
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
+**[Download the slides (soon !)]()**
+
+#### [](#header-7)Assignemnt : class presentation
+
+Two teams will have to challenge the following statement : _Are civic technologies a pastime for the middle class ?_ 
+
+#### [](#header-7)Mandatory readings
+
+*   Emily Shaw, 2016, [How the Department of Justice used data to hold Baltimore police accountable](https://sunlightfoundation.com/2016/08/17/how-the-doj-used-data-to-hold-baltimore-police-accountable/), _Sunlight Foundation_  
+*  Valentin Chaput, 2016, [French civic-tech is turning away from the digital commons creation dynamic we need to transform our democracy](https://medium.com/open-source-politics/french-civic-tech-is-turning-away-from-the-digital-commons-creation-dynamic-we-need-to-transform-efd7867c3eb2), _Open Source Politics (Medium)_
+*   Yiren Lu, [Why is it so hard to make a website for the Government ?](https://www.nytimes.com/interactive/2016/11/13/magazine/design-issue-code-for-america.html), _The New York Times_ 
+
+### [](#header-6)Session 3 : field trip to Station F (PLR)
+
+Further details to come.
+
+
+### [](#header-6)Session 4 : Toward algorithmic transparency and accountability (FB)
+
+**[Download the slides (soon !)]()**
+
+#### [](#header-7)Assignemnt : class presentation
+
+Two teams will have to challenge the following statement : _Would you be willing to give up your privacy for better Youtube and Siri recommendations ?
+_ 
+
+#### [](#header-7)Mandatory readings
+
+TBD
+
+### [](#header-6)Session 5 : Organizations as platforms of people : exploring the decentralization of social interactions (ABV)
+
+
+**[Download the slides (soon !)]()**
+
+#### [](#header-7)Assignemnt : class presentation
+
+Use-case analysis : compare the governance model of two organizations
+
+**Sensorica** is an emergent organization that describes itself as Open Value Network, exploring peer-2-peer relations at a professional level. After interviewing one of its affiliates, describe its governance, the tools they use, the values and the work ethics of this organization. **Are they just a bunch of nerds** playing with governance patterns or pioneers that lead the way to a whole new form of social contract. **Document your exploration as a useful contribution to this network.**
+
+
+**Enspiral** is an emergent organization that summarizes its vision as : "more people working on stuffs that matters". After interviewing one of its affiliates, describe its governance, the tools they use, their values and the work ethics of this organization. **Are they just a bunch of Neo-hippies** playing with fancy governance patterns or pioneers that lead the way to a whole new form of social contract. **Document your exploration as a useful contribution to this network.**
+
+
+#### [](#header-7)Mandatory readings
+
+TBD
+
