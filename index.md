@@ -5,38 +5,35 @@ layout: default
 
 Wikipedian protester [source : xkcd.com](http://xkcd.com/285)
 
-# [](#header-2)Instructors
+# [](#header-3)Instructors
 
 *   **Pierre-Louis Rolle** - pierre-louis.rolle@finances.gouv.fr - [Linkedin](https://www.linkedin.com/in/pierre-louis-rolle-6a23104b/) - [Twitter](https://www.twitter.com/pierrelouisr)
 *   **Alexandre Bigot-Verdier** - alexandre.bigot-verdier@finances.gouv.fr - Linkedin - Twitter
 *   **Frédéric Bardolle** - frederic.bardolle@finances.gouv.fr - Linkedin - Twitter
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### [](#header-3)Evaluation
 
-### [](#header-3)Header 3
+The first assignment is to use this tool and collectively explore and decide the process of rating of this session, following a consent decision making process. The students have the entire responsibility of deciding how they will rated. Note : they don't decide the grade, but only the process.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Participation is **mandatory** ; you have to register [following this link](https://www.loomio.org/g/ajpRcvqB/digital-government-and-society-scpo-sgl-jan-2018). 
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
-#### [](#header-4)Header 4
+### [](#header-3)Optional readings : keep you updated on the topics at hand
+*   The GovLab Blog : http://thegovlab.org/blog/
+*   g0v News English : https://g0v.news/tagged/en
+*   Alexander von Humboldt Institute for Internet and Society : https://www.hiig.de/en/blog/ 
+*   The Stanford Social Innovation Review : https://ssir.org/
+*   The Good Things Foundation Blog : https://www.goodthingsfoundation.org/news-and-blogs
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+
+#### [](#header-3)Session : introduction (PLR)
+##### [](#header-5)Mandatory readings
+
+*   Tarleton Gillespie, 2017, [The platform metaphor, revisited ](https://www.hiig.de/en/blog/the-platform-metaphor-revisited/) 
+*  John Butin, 2016, [25 Years Later, What Happened to 'Reinventing Government'?](http://www.governing.com/topics/mgmt/gov-reinventing-government-book.html), _Governing the States and Localities_
+*   Yiren Lu, [Why is it so hard to make a website for the Government ?](https://www.nytimes.com/interactive/2016/11/13/magazine/design-issue-code-for-america.html), _The New York Times_ 
+
+**[Download the slides](/assets/session1.pdf)**
 
 ##### [](#header-5)Header 5
 
