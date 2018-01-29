@@ -19,7 +19,9 @@ Senior Policy Team, Digital Society Task Force : [www.societenumerique.gouv.fr](
 
 The first assignment for this seminar is to decide collectively how you will be evaluated, following a _consent decision making_ process. The students have the entire responsibility of deciding how they will rated. Note : they don't decide the grade, but only the process.
 
-Participation is **mandatory** ; you have to register [following this link](https://www.loomio.org/g/ajpRcvqB/digital-government-and-society-scpo-sgl-jan-2018). 
+Participation is **mandatory** ; you have to register [following this link](https://www.loomio.org/g/ajpRcvqB/digital-government-and-society-scpo-sgl-jan-2018). This exercice will amount for 50% of the final grade. 
+
+Group presentations are assigned to 3 sessions. They represent 50% of the final grade. 
 
 
 ### [](#header-4)Optional readings : keep you updated on the topics at hand
