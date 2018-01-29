@@ -27,6 +27,7 @@ Participation is **mandatory** ; you have to register [following this link](http
 
 
 #### [](#header-3)Session : introduction (PLR)
+
 ##### [](#header-5)Mandatory readings
 
 *   Tarleton Gillespie, 2017, [The platform metaphor, revisited ](https://www.hiig.de/en/blog/the-platform-metaphor-revisited/) 
