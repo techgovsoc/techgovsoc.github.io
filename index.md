@@ -75,8 +75,7 @@ Further details to come.
 
 #### [](#header-7)Assignment : class presentation
 
-Two teams will have to challenge the following statement : _Would you be willing to give up your privacy for better Youtube and Siri recommendations ?
-_ 
+Two teams will have to challenge the following statement : _Would you be willing to give up your privacy for better Youtube and Siri recommendations ?_ 
 
 #### [](#header-7)Mandatory readings
 
