@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![](/assets/wikipedia-protester.png)
+![](/assets/wikipedian-protester.png)
 
 # [](#header-1)Instructors
 
