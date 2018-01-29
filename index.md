@@ -5,7 +5,9 @@ layout: default
 
 Wikipedian protester [source : xkcd.com](http://xkcd.com/285)
 
-# [](#header-3)Instructors
+# [](#header-1)About the seminar
+
+### [](#header-2)Instructors
 
 *   **Pierre-Louis Rolle** - pierre-louis.rolle@finances.gouv.fr - [Linkedin](https://www.linkedin.com/in/pierre-louis-rolle-6a23104b/) - [Twitter](https://www.twitter.com/pierrelouisr)
 *   **Alexandre Bigot-Verdier** - alexandre.bigot-verdier@finances.gouv.fr - Linkedin - Twitter
@@ -13,12 +15,12 @@ Wikipedian protester [source : xkcd.com](http://xkcd.com/285)
 
 ### [](#header-3)Evaluation
 
-The first assignment is to use this tool and collectively explore and decide the process of rating of this session, following a consent decision making process. The students have the entire responsibility of deciding how they will rated. Note : they don't decide the grade, but only the process.
+The first assignment for this seminar is to decide collectively how you will be evaluated, following a _consent decision making_ process. The students have the entire responsibility of deciding how they will rated. Note : they don't decide the grade, but only the process.
 
 Participation is **mandatory** ; you have to register [following this link](https://www.loomio.org/g/ajpRcvqB/digital-government-and-society-scpo-sgl-jan-2018). 
 
 
-### [](#header-3)Optional readings : keep you updated on the topics at hand
+### [](#header-4)Optional readings : keep you updated on the topics at hand
 *   The GovLab Blog : http://thegovlab.org/blog/
 *   g0v News English : https://g0v.news/tagged/en
 *   Alexander von Humboldt Institute for Internet and Society : https://www.hiig.de/en/blog/ 
@@ -26,9 +28,11 @@ Participation is **mandatory** ; you have to register [following this link](http
 *   The Good Things Foundation Blog : https://www.goodthingsfoundation.org/news-and-blogs
 
 
-#### [](#header-3)Session : introduction (PLR)
+# [](#header-1)Program
 
-##### [](#header-5)Mandatory readings
+### [](#header-6)Session : introduction (PLR)
+
+#### [](#header-7)Mandatory readings
 
 *   Tarleton Gillespie, 2017, [The platform metaphor, revisited ](https://www.hiig.de/en/blog/the-platform-metaphor-revisited/) 
 *  John Butin, 2016, [25 Years Later, What Happened to 'Reinventing Government'?](http://www.governing.com/topics/mgmt/gov-reinventing-government-book.html), _Governing the States and Localities_
