@@ -50,7 +50,7 @@ Participation is **mandatory** ; you have to register [following this link](http
 
 [Download the slides (soon !)]()
 
-#### [](#header-7)Assignemnt : class presentation
+#### [](#header-7)Assignment : class presentation
 
 Two teams will have to challenge the following statement : _Are civic technologies a pastime for the middle class ?_ 
 
@@ -73,7 +73,7 @@ Further details to come.
 
 [Download the slides (soon !)]()
 
-#### [](#header-7)Assignemnt : class presentation
+#### [](#header-7)Assignment : class presentation
 
 Two teams will have to challenge the following statement : _Would you be willing to give up your privacy for better Youtube and Siri recommendations ?
 _ 
@@ -87,7 +87,7 @@ TBD
 
 [Download the slides (soon !)]()
 
-#### [](#header-7)Assignemnt : class presentation
+#### [](#header-7)Assignment : class presentation
 
 Use-case analysis : compare the governance model of two organizations
 
