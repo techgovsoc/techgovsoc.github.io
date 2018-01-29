@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![](https://techgovsoc.github.io/assets/wikipedian-protester.png)
+![](https://github.com/techgovsoc/techgovsoc.github.io/blob/master/assets/wikipedian_protester.png)
 
 # [](#header-1)Instructors
 
