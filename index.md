@@ -66,12 +66,9 @@ Two teams will have to challenge the following statement : _Are civic technologi
 *   Aaron Wytze, 2017, [Taiwanese Civic Tech is not Re-inventing Democracy… Yet.](https://g0v.news/taiwanese-civic-tech-is-not-re-inventing-democracy-yet-ae72c1219531), _g0v News_ 
 *   Wei-chia Hu, 2017, [How Can Civic Tech Make Government More “Open” and “Participatory”?](https://g0v.news/how-can-civic-tech-make-government-more-open-and-participatory-b67c2a4fa868), _g0v News_ 
 
-## [](#header-6)Session 3 : field trip to Station F (PLR)
-
-Further details to come.
 
 
-## [](#header-6)Session 4 : Toward algorithmic transparency and accountability (FB)
+## [](#header-6)Session 3 : Toward algorithmic transparency and accountability (FB)
 
 [Download the slides (soon !)]()
 
@@ -82,6 +79,14 @@ Two teams will have to challenge the following statement : _Would you be willing
 #### [](#header-7)Mandatory readings
 
 TBD
+
+## [](#header-6)Session 4 : field trip to Station F (PLR)
+
+Meetup in front Station F at 9:30 rue Eugène Freyssinet
+
+"Station F is a business incubator for startups, located in 13th arrondissement of Paris. Noted as the world's largest startup facility.
+
+Situated in a former rail freight depot previously known as la Halle Freyssinet (thereof the "F" in Station F). The 34,000 m2 facility was formally opened by President Emmanuel Macron in June 2017 and provides office accommodation for up to 1,000 start-up and early stage businesses as well as for corporate partners such as Facebook, Microsoft and Naver."
 
 ## [](#header-6)Session 5 : Organizations as platforms of people : exploring the decentralization of social interactions (ABV)
 
