@@ -77,8 +77,14 @@ Two teams will have to challenge the following statement : _Are civic technologi
 Two teams will have to challenge the following statement : _Would you be willing to give up your privacy for better Youtube and Siri recommendations ?_ 
 
 #### [](#header-7)Mandatory readings
+* Zeynep Tufekci, 2017, [We're building a dystopia just to make people click on ads](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads) (video), _TedGlobal_
+* Tim Hwang, 2017, [The Madness of the Crowd](https://logicmag.io/01-the-madness-of-the-crowd/), _Logic, Issue 1: Intelligence_
+* Roger McNamee, 2017, [How to Fix Facebook—Before It Fixes Us](https://washingtonmonthly.com/magazine/january-february-march-2018/how-to-fix-facebook-before-it-fixes-us), _Washington monthly_
 
-TBD
+#### [](#header-7)Recommended readings
+*  Paul Lewis, 2017, ['Our minds can be hijacked': the tech insiders who fear a smartphone dystopia](https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia), _the Guardian_
+
+
 
 ## [](#header-6)Session 4 : field trip to Station F (PLR)
 
