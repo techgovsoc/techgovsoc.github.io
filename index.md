@@ -34,7 +34,7 @@ Group presentations are assigned to 3 sessions. They represent 50% of the final 
 
 # [](#header-1)Program
 
-## [](#header-6)Session 1 : introduction (PLR)
+## [](#header-6)Session 1 : introduction (26/01 - PLR)
 
 
 [Download the slides](/assets/session1.pdf)
@@ -47,7 +47,7 @@ Group presentations are assigned to 3 sessions. They represent 50% of the final 
 
 
 
-## [](#header-6)Session 2 : Opening governments : public participation and transparency (PLR)
+## [](#header-6)Session 2 : Opening governments : public participation and transparency (5/02 - PLR)
 
 
 [Download the slides (soon !)]()
@@ -68,7 +68,7 @@ Two teams will have to challenge the following statement : _Are civic technologi
 
 
 
-## [](#header-6)Session 3 : Toward algorithmic transparency and accountability (FB)
+## [](#header-6)Session 3 : Toward algorithmic transparency and accountability (09/02 - FB)
 
 [Download the slides (soon !)]()
 
@@ -86,7 +86,7 @@ Two teams will have to challenge the following statement : _Would you be willing
 
 
 
-## [](#header-6)Session 4 : field trip to Station F (PLR)
+## [](#header-6)Session 4 : field trip to Station F (16-02 PLR)
 
 Meetup in front Station F at 9:30 rue Eugène Freyssinet
 
@@ -94,7 +94,7 @@ Meetup in front Station F at 9:30 rue Eugène Freyssinet
 
 Situated in a former rail freight depot previously known as la Halle Freyssinet (thereof the "F" in Station F). The 34,000 m2 facility was formally opened by President Emmanuel Macron in June 2017 and provides office accommodation for up to 1,000 start-up and early stage businesses as well as for corporate partners such as Facebook, Microsoft and Naver."
 
-## [](#header-6)Session 5 : Organizations as platforms of people : exploring the decentralization of social interactions (ABV)
+## [](#header-6)Session 5 : Organizations as platforms of people : exploring the decentralization of social interactions (05/03 - ABV)
 
 
 [Download the slides (soon !)]()
