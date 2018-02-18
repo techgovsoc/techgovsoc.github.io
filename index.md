@@ -70,7 +70,7 @@ Two teams will have to challenge the following statement : _Are civic technologi
 
 ## [](#header-6)Session 3 : Toward algorithmic transparency and accountability (09/02 - FB)
 
-[Download the slides (soon !)]()
+[Download the slides](/assets/session3.pdf)
 
 #### [](#header-7)Assignment : class presentation
 
