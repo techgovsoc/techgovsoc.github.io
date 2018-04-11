@@ -43,7 +43,7 @@ Group presentations are assigned to 3 sessions. They represent 50% of the final 
 
 *   Tarleton Gillespie, 2017, [The platform metaphor, revisited ](https://www.hiig.de/en/blog/the-platform-metaphor-revisited/), _Alexander von Humboldt Institute for Internet and Society_
 *  John Butin, 2016, [25 Years Later, What Happened to 'Reinventing Government' ?](http://www.governing.com/topics/mgmt/gov-reinventing-government-book.html), _Governing the States and Localities_
-*   Yiren Lu, [Why is it so hard to make a website for the Government ?](https://www.nytimes.com/interactive/2016/11/13/magazine/design-issue-code-for-america.html), _The New York Times_
+*   Yiren Lu, 2016, [Why is it so hard to make a website for the Government ?](https://www.nytimes.com/interactive/2016/11/13/magazine/design-issue-code-for-america.html), _The New York Times_
 
 
 
