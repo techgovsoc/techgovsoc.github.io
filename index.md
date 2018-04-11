@@ -85,9 +85,11 @@ Two teams will have to challenge the following statement : _Would you be willing
 *  Paul Lewis, 2017, ['Our minds can be hijacked': the tech insiders who fear a smartphone dystopia](https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia), _the Guardian_
 
 
+## [](#header-6)Session 4 : Evaluation / interactive debate (12/04 - PLR)
 
+Students debated and voted beforehand for an in-class exam using [the Loomio platform.](https://www.loomio.org/d/h0Rv5KEi/what-about-an-interactive-debate-)
 
-## [](#header-6)Session 4 : Organizations as platforms of people : exploring the decentralization of social interactions (05/03 - ABV)
+## [](#header-6)Session 5 : Organizations as platforms of people : exploring the decentralization of social interactions (12/04 - ABV)
 
 
 [Download the slides (soon !)]()
@@ -106,7 +108,7 @@ Use-case analysis : compare the governance model of two organizations
 
 TBD
 
-## [](#header-6)Session 5 : field trip to Station F (DATE TBD PLR)
+## [](#header-6)Bank session : field trip to Station F (DATE TBD PLR)
 
 Meetup in front Station F at 9:30 rue Eugène Freyssinet
 
