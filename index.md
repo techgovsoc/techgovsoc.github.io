@@ -109,7 +109,7 @@ Use-case analysis : compare the governance model of two organizations
 
 TBD
 
-## [](#header-6)Bank session : field trip to Station F (DATE TBD PLR)
+## [](#header-6)Bank session : field trip to Station F (PLR)
 
 Meetup in front Station F at 9:30 rue Eugène Freyssinet
 
