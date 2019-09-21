@@ -35,7 +35,7 @@ Group presentations are assigned to 3 sessions. They represent 50% of the final 
 
 # [](#header-1)Program
 
-## [](#header-6)Session 1 : introduction (26/01 - PLR)
+## [](#header-6)Session 1 : introduction (26-01 / 9:00-12:00)
 
 
 [Download the slides](/assets/session1.pdf)
@@ -48,7 +48,7 @@ Group presentations are assigned to 3 sessions. They represent 50% of the final 
 
 
 
-## [](#header-6)Session 2 : Opening governments : public participation and transparency (5/02 - PLR)
+## [](#header-6)Session 2 : Opening governments : public participation and transparency (5-02 / 9:00-12:00)
 
 
 [Download the slides](/assets/session2.pdf)
@@ -69,7 +69,7 @@ Two teams will have to challenge the following statement : _Are civic technologi
 
 
 
-## [](#header-6)Session 3 : Toward algorithmic transparency and accountability (09/02 - FB)
+## [](#header-6)Session 3 : Toward algorithmic transparency and accountability (09-02 / 9:00-12:00 / guest : FB)
 
 [Download the slides](/assets/session3.pdf)
 
@@ -86,11 +86,11 @@ Two teams will have to challenge the following statement : _Would you be willing
 *  Paul Lewis, 2017, ['Our minds can be hijacked': the tech insiders who fear a smartphone dystopia](https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia), _the Guardian_
 
 
-## [](#header-6)Session 4 : Evaluation / interactive debate (12/04 - PLR)
+## [](#header-6)Session 4 : Evaluation / interactive debate (12-04 / 9:00-12:00)
 
 Students debated and voted beforehand for an in-class exam using [the Loomio platform.](https://www.loomio.org/d/h0Rv5KEi/what-about-an-interactive-debate-)
 
-## [](#header-6)Session 5 : Organizations as platforms of people : exploring the decentralization of social interactions (12/04 - ABV)
+## [](#header-6)Session 5 : Organizations as platforms of people : exploring the decentralization of social interactions (12-04 / 9:00-12:00 / guest : ABV)
 
 
 [Download the slides (soon !)]()
@@ -109,7 +109,7 @@ Use-case analysis : compare the governance model of two organizations
 
 TBD
 
-## [](#header-6)Bank session : field trip to Station F (PLR)
+## [](#header-6)Bank session : field trip to Station F
 
 Meetup in front Station F at 9:30 rue Eugène Freyssinet
 
