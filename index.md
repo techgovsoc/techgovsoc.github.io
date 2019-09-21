@@ -9,11 +9,12 @@ Wikipedian protester [source : xkcd.com](http://xkcd.com/285)
 
 ### [](#header-2)Instructors
 
+#### Lead instructor :
 *   **Pierre-Louis Rolle** - pierre-louis.rolle@finances.gouv.fr - [Linkedin](https://www.linkedin.com/in/pierre-louis-rolle-6a23104b/) - [Twitter](https://www.twitter.com/pierrelouisr)
-*   **Alexandre Bigot-Verdier** - alexandre.bigot-verdier@finances.gouv.fr - [Linkedin](https://www.linkedin.com/in/alexandre-bigot-verdier-27348920/) - [Twitter](https://www.twitter.com/AlexBigVer)
-*   **Frédéric Bardolle** - frederic.bardolle@finances.gouv.fr - [Linkedin](https://www.linkedin.com/in/fbardolle/) - [Twitter](https://www.twitter.com/seiteta)
 
-Senior Policy Team, Digital Society Task Force : [www.societenumerique.gouv.fr](https://www.societenumerique.gouv.fr)
+#### Guest instructors : 
+*   **Frédéric Bardolle** - frederic.bardolle@finances.gouv.fr - [Linkedin](https://www.linkedin.com/in/fbardolle/) - [Twitter](https://www.twitter.com/seiteta)
+*   **Alexandre Bigot-Verdier** - alexandre.bigot-verdier@finances.gouv.fr - [Linkedin](https://www.linkedin.com/in/alexandre-bigot-verdier-27348920/)
 
 ### [](#header-3)Evaluation
 
