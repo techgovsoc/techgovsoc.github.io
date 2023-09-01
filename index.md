@@ -7,9 +7,7 @@ Wikipedian protester [source : xkcd.com](http://xkcd.com/285)
 
 # [](#header-1)About the seminar
 
-### [](#header-2)Instructors
-
-####  Instructor :
+### [](#header-2)Instructor
 *   **Pierre-Louis Rolle** - pierre-louis.rolle@anct.gouv.fr - [Linkedin](https://www.linkedin.com/in/pierre-louis-rolle-6a23104b/) - [Twitter](https://www.twitter.com/pierrelouisr)
 
 ### [](#header-3)Evaluation
