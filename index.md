@@ -9,12 +9,8 @@ Wikipedian protester [source : xkcd.com](http://xkcd.com/285)
 
 ### [](#header-2)Instructors
 
-#### Lead instructor :
-*   **Pierre-Louis Rolle** - pierre-louis.rolle@finances.gouv.fr - [Linkedin](https://www.linkedin.com/in/pierre-louis-rolle-6a23104b/) - [Twitter](https://www.twitter.com/pierrelouisr)
-
-#### Guest instructors : 
-*   **Frédéric Bardolle** - [Linkedin](https://www.linkedin.com/in/fbardolle/) - [Twitter](https://www.twitter.com/seiteta)
-*   **Alexandre Bigot-Verdier** - [Linkedin](https://www.linkedin.com/in/alexandre-bigot-verdier-27348920/)
+####  Instructor :
+*   **Pierre-Louis Rolle** - pierre-louis.rolle@anct.gouv.fr - [Linkedin](https://www.linkedin.com/in/pierre-louis-rolle-6a23104b/) - [Twitter](https://www.twitter.com/pierrelouisr)
 
 ### [](#header-3)Evaluation
 
@@ -69,7 +65,7 @@ Two teams will have to challenge the following statement : _Are civic technologi
 
 
 
-## [](#header-6)Session 3 : Toward algorithmic transparency and accountability (09-02 / 9:00-12:00 / guest : FB)
+## [](#header-6)Session 3 : Toward algorithmic transparency and accountability (09-02 / 9:00-12:00 / guest speaker : Frédéric Bardolle - [Linkedin](https://www.linkedin.com/in/fbardolle/) - [Twitter](https://www.twitter.com/seiteta))
 
 [Download the slides](/assets/session3.pdf)
 
@@ -90,7 +86,7 @@ Two teams will have to challenge the following statement : _Would you be willing
 
 Students debated and voted beforehand for an in-class exam using [the Loomio platform.](https://www.loomio.org/d/h0Rv5KEi/what-about-an-interactive-debate-)
 
-## [](#header-6)Session 5 : Organizations as platforms of people : exploring the decentralization of social interactions (12-04 / 9:00-12:00 / guest : ABV)
+## [](#header-6)Session 5 : Organizations as platforms of people : exploring the decentralization of social interactions (12-04 / 9:00-12:00 / guest speaker : Alexandre Bigot-Verdier - [Linkedin](https://www.linkedin.com/in/alexandre-bigot-verdier-27348920/))
 
 
 [Download the slides (soon !)]()
@@ -104,10 +100,6 @@ Use-case analysis : compare the governance model of two organizations
 
 **Enspiral** is an emergent organization that summarizes its vision as : "more people working on stuffs that matters". After interviewing one of its affiliates, describe its governance, the tools they use, their values and the work ethics of this organization. **Are they just a bunch of Neo-hippies** playing with fancy governance patterns or pioneers that lead the way to a whole new form of social contract. **Document your exploration as a useful contribution to this network.**
 
-
-#### [](#header-7)Mandatory readings
-
-TBD
 
 ## [](#header-6)Bank session : field trip to Station F
 
